@@ -7,3 +7,5 @@ chapters:
 - file: about-option-data
 - file: jquants-derivatives
 - file: underlying-price
+- file: otm
+- file: itm
