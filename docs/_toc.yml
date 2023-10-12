@@ -4,6 +4,7 @@
 format: jb-book
 root: title
 chapters:
+- file: information
 - file: about-option-data
 - file: jquants-derivatives
 - file: underlying-price
